@@ -1,0 +1,23 @@
+*BotPlease added to chat*
+
+BotPlease: Hi. Vote any time by saying 'vote'
+
+User: blah
+
+*no response*
+
+User: Vote please!
+
+BotPlease: Ok, you get two votes. Who would you like to vote for first? Adrian, Javed, ...... or Alex?
+
+User: I'd like to vote for Adrian.
+
+BotsPlease: Ok, your first vote is saved for Adrian. You have one vote left. Who would you like to vote for? Javed, ..... Alex?
+
+User: I'd like to vote for Adrian.
+
+BotsPlease: You didn't enter a valid vote. Who would you like to vote for? Javed, ..... Alex?
+
+User: I vote for Javed.
+
+BotsPlease: Ok, your first vote is saved for Javed. Thanks for voting. 
