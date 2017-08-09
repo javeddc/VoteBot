@@ -23,4 +23,4 @@ User: I vote for Javed.
 BotsPlease: Ok, your first vote is saved for Javed. Thanks for voting. 
 
 
-BOT_API_KEY=xoxb-223577252708-qxPsv6ykUHn0fMEB4Dizd4gN node bin/bot.js
+BOT_API_KEY=apikey node bin/bot.js
