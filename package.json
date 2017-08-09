@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "slackbots": "^0.3.0",
-    "sqlite3": "^3.1.9"
+    "slackbots": "^0.3.0"
   }
 }
